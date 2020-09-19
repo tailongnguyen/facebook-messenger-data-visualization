@@ -30,6 +30,7 @@ The smaller the group is, the higher score it gets.
 
 ## Top phrases
 You must pick ones that you find interesting on your own =)). This code doesn't filter non-sense messages for you. ^^
+
 ![top-phrases][parrot_new.png]
 
 Note: You can use other mask in top phrases visualization by modifying code from [this library](https://github.com/amueller/word_cloud/tree/master/examples).
